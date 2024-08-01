@@ -1,0 +1,48 @@
+[submodule "doc"]
+	path = doc
+	url = https://github.com/initialencounter/doc
+[submodule "koimux_bot"]
+	path = koimux_bot
+	url = https://github.com/initialencounter/koimux_bot
+[submodule "puzzle"]
+	path = puzzle
+	url = https://github.com/initialencounter/puzzle
+[submodule "2022-12-24"]
+	path = 2022-12-24
+	url = https://github.com/initialencounter/2022-12-24
+[submodule "Verifile"]
+	path = Verifile
+	url = https://github.com/initialencounter/Verifile
+[submodule "RainWarm"]
+	path = RainWarm
+	url = https://github.com/initialencounter/RainWarm
+[submodule "reset"]
+	path = reset
+	url = https://github.com/initialencounter/reset
+[submodule "koishi-plugin-open-vits"]
+	path = koishi-plugin-open-vits
+	url = https://github.com/initialencounter/koishi-plugin-open-vits
+[submodule "checkList"]
+	path = checkList
+	url = https://github.com/initialencounter/checkList
+[submodule "LBPLD-yolov8"]
+	path = LBPLD-yolov8
+	url = https://github.com/initialencounter/LBPLD-yolov8
+[submodule "chronocat-termux"]
+	path = chronocat-termux
+	url = https://github.com/initialencounter/chronocat-termux
+[submodule "mydocker"]
+	path = mydocker
+	url = https://github.com/initialencounter/mydocker
+[submodule "code"]
+	path = code
+	url = https://github.com/initialencounter/code
+[submodule "UN38.3"]
+	path = UN38.3
+	url = https://github.com/initialencounter/UN38.3
+[submodule "Translator-of-ChatGPT"]
+	path = Translator-of-ChatGPT
+	url = https://github.com/initialencounter/Translator-of-ChatGPT
+[submodule "nonebot-plugin-cube "]
+	path = nonebot-plugin-cube 
+	url = https://github.com/initialencounter/nonebot-plugin-cube 
