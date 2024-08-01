@@ -43,6 +43,6 @@
 [submodule "Translator-of-ChatGPT"]
 	path = Translator-of-ChatGPT
 	url = https://github.com/initialencounter/Translator-of-ChatGPT
-[submodule "nonebot-plugin-cube "]
-	path = nonebot-plugin-cube 
-	url = https://github.com/initialencounter/nonebot-plugin-cube 
+[submodule "nonebot-plugin-cube"]
+	path = nonebot-plugin-cube
+	url = https://github.com/initialencounter/nonebot-plugin-cube
