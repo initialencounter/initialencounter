@@ -46,3 +46,6 @@
 [submodule "nonebot-plugin-cube"]
 	path = nonebot-plugin-cube
 	url = https://github.com/initialencounter/nonebot-plugin-cube
+[submodule "mines"]
+	path = mines
+	url = https://github.com/initialencounter/mines
