@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![initialencounter's github stats](https://github-readme-stats.vercel.app/api?username=initialencounter&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=initialencounter&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=initialencounter&layout=compact&theme=dracula&langs_count=40)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=initialencounter&repo=mykoishi&show_owner=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=initialencounter&repo=koimux_bot&show_owner=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
