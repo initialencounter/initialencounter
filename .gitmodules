@@ -49,3 +49,36 @@
 [submodule "mines"]
 	path = mines
 	url = https://github.com/initialencounter/mines
+[submodule "chrome-extensions"]
+	path = chrome-extensions
+	url = https://github.com/initialencounter/chrome-extensions
+[submodule "Aircraft"]
+	path = Aircraft
+	url = https://github.com/initialencounter/Aircraft
+[submodule "koishi-plugin-transformers"]
+	path = koishi-plugin-transformers
+	url = https://github.com/initialencounter/koishi-plugin-transformers
+[submodule "nix-config"]
+	path = nix-config
+	url = https://github.com/initialencounter/nix-config
+[submodule "napcat.nix"]
+	path = napcat.nix
+	url = https://github.com/initialencounter/napcat.nix
+[submodule "vnlims"]
+	path = vnlims
+	url = https://github.com/initialencounter/vnlims
+[submodule "flextrek"]
+	path = flextrek
+	url = https://github.com/initialencounter/flextrek
+[submodule "summary-rs"]
+	path = summary-rs
+	url = https://github.com/initialencounter/summary-rs
+[submodule "at-dialog"]
+	path = at-dialog
+	url = https://github.com/initialencounter/at-dialog
+[submodule "egui-messagebox"]
+	path = egui-messagebox
+	url = https://github.com/initialencounter/egui-messagebox
+[submodule "whale"]
+	path = whale
+	url = https://github.com/initialencounter/whale
